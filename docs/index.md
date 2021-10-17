@@ -1,6 +1,8 @@
 # 主页
 
 [![logo](logo.svg)]()
+[![logo](red_panda_cpp_icon_rigo.svg)]()
+[![logo](red_panda_ide_icon_rigo.svg)]()
 
 ## 小巧但功能强大的C/C++编辑器
 
