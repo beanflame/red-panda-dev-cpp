@@ -1,5 +1,7 @@
 # 主页
 
+[![logo](logo.svg)]()
+
 ## 小巧但功能强大的C/C++编辑器
 
 [Dev-C++](https://sourceforge.net/p/orwelldevcpp/)是一个小巧的开源C/C++ 集成开发环境，非常适合于C/C++ 语言的初学者使用，但是到2015年后已停止开发。
