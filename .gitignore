@@ -1,0 +1,11 @@
+/site
+/.vscode
+
+_build/
+site/
+.vscode/
+.DS_Store
+.env
+.well-known/
+node_modules/
+.idea/
